@@ -88,4 +88,14 @@
 }
 .line {
 }
+.icon {
+}
+.paragraph {
+  text-align:left;
+}
+.shape {
+}
+.image {
+  color:#000000;
+}
 textarea, select, input, button { outline: none; }
